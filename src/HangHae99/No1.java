@@ -6,7 +6,6 @@ public class No1 {
     public static void main(String[] args) {
         // 정수 num1과 num2가 주어질 때, num1에서 num2를 뺀 값을 return하도록 solution함수 완성
         // 문제 URL : https://school.programmers.co.kr/learn/courses/30/lessons/120803
-        // raw code :
         Scanner sc = new Scanner(System.in);
         int num1 = sc.nextInt();
         int num2 = sc.nextInt();
